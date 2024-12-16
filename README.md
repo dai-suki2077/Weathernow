@@ -41,9 +41,6 @@
 # Click here -> [credit-link]
 
 
-**Backend**
-
-# Click here -> [background-music]
 
 # License
     MIT License

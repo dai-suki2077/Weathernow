@@ -57,7 +57,7 @@ height="80">](https://github.com/tangobeee/Weathernaut/releases/latest)
 # License
     MIT License
     
-    Copyright (c) 2023 TangoBee
+    Copyright (c) 2024
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

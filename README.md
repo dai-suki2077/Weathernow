@@ -1,4 +1,4 @@
-# Weathernaut
+# Weathernow
 
 [![Releases](https://img.shields.io/github/v/release/tangobeee/Weathernaut.svg)](https://github.com/tangobeee/Weathernaut/releases/latest)
 ![GitHub](https://img.shields.io/github/license/tangobeee/weathernaut)
